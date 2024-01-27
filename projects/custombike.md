@@ -6,8 +6,8 @@ title: "Making a Custom Mini-Bike"
 date: 2022
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Designing
+  - Mechanics
 summary: "Designing and modifying a custom mini-bike for the streets"
 ---
 
