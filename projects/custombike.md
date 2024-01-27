@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/Grom Night.JPEG
 title: "Making a Custom Mini-Bike"
 date: 2014
 published: false
