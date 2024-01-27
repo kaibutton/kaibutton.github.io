@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/Grom Night.JPEG
 title: "Making a Custom Mini-Bike"
-date: 2014
-published: false
+date: 2022
+published: true
 labels:
   - Lisp
   - GitHub
