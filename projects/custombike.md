@@ -21,7 +21,7 @@ This project was definitely more of a creative one, taking into consideration in
 
 It started off very yellow, and that needed to change. But first, my plans also included lowering both front rear end of the bike a few inches, extending the swingarm and rear wheel out a little, and changing the handle-bars for a more aesthetic setup.
 
-<img class="img-fluid" src="../img/StrippedGrom.JPG">
+<img class="img-fluid" src="../img/GromForkCap.JPG"><img class="img-fluid" src="../img/StrippedGrom.JPG">
 
 My next step was to paint the plastics from yellow to red. I've never painted anything before, so this was definitely a learning experience!
 
