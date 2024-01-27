@@ -18,7 +18,7 @@ I've wanted to  get into riding motorcycles for a while now, so I did. The "comm
 This project was definitely more of a creative one, taking into consideration inspiration from the internet and my own personal imagination. Late September of 2022, I took the plunge and bought my first "motorcycle" (it was a mini-bike). A 2022 Honda Grom. It was small and light, economical and comfortable, and cheap and accessible; the perfect learner bike.
 
 # Delivery Day
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/GromInBed.JPG">
 
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
