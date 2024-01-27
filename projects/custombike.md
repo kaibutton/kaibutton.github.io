@@ -10,7 +10,7 @@ labels:
   - GitHub
 summary: "Designing and modifying a custom mini-bike for the streets"
 ---
-<img class="img-fluid" src="../img/GromJames.JPG">
+<img class="img-fluid" src="../img/GromJames.jpg">
 
 I've wanted to  get into riding motorcycles for a while now, so I did. Common sense told me to start small for a beginner, so I did. But I inevitably thought to myself, just because I have a small bike doesn't mean it can't be a cool bike too, right?
 
