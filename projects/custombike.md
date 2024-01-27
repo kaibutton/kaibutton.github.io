@@ -10,7 +10,7 @@ labels:
   - GitHub
 summary: "Designing and modifying a custom mini-bike for the streets"
 ---
-<img class="img-fluid" src="../img/GromJames.jpg">
+
 
 I've wanted to  get into riding motorcycles for a while now, so I did. Common sense told me to start small for a beginner, so I did. But I inevitably thought to myself, just because I have a small bike doesn't mean it can't be a cool bike too, right?
 
@@ -21,4 +21,11 @@ This project was definitely more of a creative one, taking into consideration in
 
 It started off very yellow, and that needed to change. But first, my plans also included lowering both front rear end of the bike a few inches, extending the swingarm and rear wheel out a little, and changing the handle-bars for a more aesthetic setup.
 
+<img class="img-fluid" src="../img/StrippedGrom.JPG">
 
+My next step was to paint the plastics from yellow to red. I've never painted anything before, so this was definitely a learning experience!
+
+<img class="img-fluid" src="../img/PaintingGrom.jpg">
+Now that its red, its time to add the finishing touches. A few extra plastic body panels were installed to tie everything together, and a little fender over the rear wheel to prevent water from splashing up... and she's done! 
+
+<img class="img-fluid" src="../img/GromJames.jpg">
