@@ -19,4 +19,6 @@ This project was definitely more of a creative one, taking into consideration in
 ## Delivery Day
 <img class="img-fluid" src="../img/GromInBed.JPG">
 
-It started off very yellow, and that needed to change. My plans also included lowering both front rear end of the bike a few inches, extending the swingarm and rear wheel out a little, and changing the handle-bars and mirrors for a more aesthetic setup.
+It started off very yellow, and that needed to change. But first, my plans also included lowering both front rear end of the bike a few inches, extending the swingarm and rear wheel out a little, and changing the handle-bars for a more aesthetic setup.
+
+
