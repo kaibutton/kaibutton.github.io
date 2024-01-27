@@ -20,5 +20,4 @@ This project was definitely more of a creative one, taking into consideration in
 # Delivery Day
 <img class="img-fluid" src="../img/GromInBed.JPG">
 
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+It started off very yellow, and that needed to change. My plans also included lowerin
