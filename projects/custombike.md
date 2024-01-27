@@ -26,6 +26,7 @@ It started off very yellow, and that needed to change. But first, my plans also 
 My next step was to paint the plastics from yellow to red. I've never painted anything before, so this was definitely a learning experience!
 
 <img class="img-fluid" src="../img/PaintingGrom.jpg">
+
 Now that its red, its time to add the finishing touches. A few extra plastic body panels were installed to tie everything together, and a little fender over the rear wheel to prevent water from splashing up... and she's done! 
 
 ## Final Build
