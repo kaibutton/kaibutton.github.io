@@ -11,7 +11,7 @@ labels:
 ---
 
 
-## How did my first encounter with Javascript go?
+## Encountering JavaScript for the first time
 
 A few weeks have already passed since my introduction into Javascript. I have experienced writing with Java and a little bit of Python in the past so there are certain attributes that are familiar. There has been a slight learning curve with Javascript, but nothing steep enough that cannot be overcome. The main sticking points that have me stuck are syntax related issues along with the inability to understand the inner workings of a new programming language well enough to manipulate variables and data structures intuitively. 
 
