@@ -1,0 +1,23 @@
+---
+layout: essay
+type: essay
+title: "Coding in Style"
+# All dates must be YYYY-MM-DD format!
+date: 2024-02-08
+published: true
+labels:
+  - Javascript
+  - Coding Standards
+---
+
+## Header 1
+
+
+
+## Header 2
+
+Paragraph 2
+
+## Header 3
+
+Paragraph 3
