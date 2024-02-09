@@ -8,7 +8,7 @@ published: true
 labels:
   - Javascript
   - Coding Standards
-  -IntelliJ
+  - IntelliJ
 ---
 
 ## The "Personal Style"
