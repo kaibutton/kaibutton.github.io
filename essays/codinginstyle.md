@@ -25,6 +25,4 @@ labels:
 
   Utilizing an integrated development environment (IDE) is part of the process for mature software engineers. IntelliJ is an IDE that I am using that encorporates ESLint. As ChatGPT puts it, ESLint can be thought of as "your personal coding coach that points out where you might've slipped up in your coding style, potential bugs, or even areas where your code could be optimized for performance". IntelliJ and all of its many features feels overwhelming for a beginner, as if a novice pilot is asked to take control of a Boeing 747 for the first time; there are simply too many knobs and buttons that I don't know the functions of, so I'm not able to utilize the vast majority of its tools. 
 
-<img class="img-fluid" src="../img/planecockpit.png">
-
   Although it is discouraging at first, learning about somthing that is seemingly conplex starts to not seem too complex after all when you get the hang of it, if that makes sense.
