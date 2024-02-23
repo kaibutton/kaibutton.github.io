@@ -4,7 +4,7 @@ type: essay
 title: "Tools"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
-published: false
+published: true
 labels:
   - HTML & CSS
   - Web Development
