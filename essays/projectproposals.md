@@ -9,6 +9,8 @@ labels:
   - Meteor
 ---
 
+Group: Kai Sutton, Royce Cornwell, Kaito Tateno
+
 # Hiking Trail Guide
 
 ### Overview
