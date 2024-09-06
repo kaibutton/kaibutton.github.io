@@ -27,8 +27,8 @@ While I’m still exploring the full range of features TypeScript offers, I hope
 </p>
 
 <div class="text-center">
-<img width="200px" 
+<img width="200px"
      class="rounded mx-auto d-block"
-     src="https://static.wikia.nocookie.net/narutoprofile/images/d/dc/Balloflight.jpg/revision/latest?cb=20170119162913"
+     src="https://static.wikia.nocookie.net/narutoprofile/images/d/dc/Balloflight.jpg"
      alt="sphere of light">
 </div>
