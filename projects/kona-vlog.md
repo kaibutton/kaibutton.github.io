@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Honda Grom/Grom Square.JPEG
+image: img/Kona Vlog/Tiki Pole.JPG
 title: "Kona Video Journal"
 date: 2023
 published: true
