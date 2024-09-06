@@ -8,6 +8,6 @@ published: true
 labels:
   - Design
   - Mechanics
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A Honda mini-bike that I decided to purchase as my first motorcycle and made uniquely my own"
 ---
 
