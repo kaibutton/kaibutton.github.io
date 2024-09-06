@@ -25,3 +25,10 @@ One of the immediate differences I noticed between TypeScript and JavaScript is 
 <p>
 While I’m still exploring the full range of features TypeScript offers, I hope to gain a deeper understanding and appreciation for everything Typescript has to offer. I have always thought about the idea of when you're in the process of learning anything new, your knowledge of said topic can be described as a circle of light illuminating a dark environment. As the area of your expertise expands, so does the circumference of your ignorance as the boundary of what you know. 
 </p>
+
+<div class="text-center">
+<img width="200px" 
+     class="rounded mx-auto d-block"
+     src="https://static.wikia.nocookie.net/narutoprofile/images/d/dc/Balloflight.jpg/revision/latest?cb=20170119162913"
+     alt="sphere of light">
+</div>
