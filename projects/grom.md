@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/Honda Grom/Grom Square.JPEG
 title: "Honda Grom"
 date: 2022
 published: true
