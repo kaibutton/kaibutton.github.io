@@ -22,7 +22,7 @@ It doesn’t take a rocket scientist to answer some of the rudimentary questions
 So then, there *is* such a thing as a dumb question, right? In certain cases based on the context of who is asking and what we’d expect them to already know, sure. But perhaps this is the wrong thing to contemplate as it should matter more on *how* a question is asked, rather than *what* is being asked. 
 
 ## What is a *smart* question?
-Eric Raymond provides a guide on how the open source community (and people in general) can ask *smart* questions. In this guide, he gives tips on how to ask for help from strangers in a way that is clear, concise, and productive.
+Eric Raymond provides a guide on how the open source community (and people in general) can ask *smart* questions. In this guide (linked [*here*](http://www.catb.org/esr/faqs/smart-questions.html)), he gives tips on how to ask for help from strangers in a way that is clear, concise, and productive.
 <ol>
   <li>Clear and concise (we know what they’re asking and it’s not broad)</li>
  <li>Productive (time doesn’t have to be wasted on clarifying details of the symptoms and what has already been tried to resolve the issue)</li> 
