@@ -11,7 +11,7 @@ labels:
   - Forums
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="600px" class="rounded float-center pe-4" src="../img/smart-questions/Classroom.jpeg">
 
 ## There is no such thing as a dumb question
 I’m sure many have heard this statement uttered somewhere before in different environments, often with the intention of alleviating the anxiety of having to understand or reducing the embarrassment that sometimes comes with having to ask for clarification. But is it really the case that there is no such thing as a dumb question?
