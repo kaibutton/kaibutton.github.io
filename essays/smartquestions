@@ -13,44 +13,23 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+There is no such thing as a dumb question. I’m sure many have heard this statement uttered somewhere before in different environments, often with the intention of alleviating the anxiety of having to understand or reducing the embarrassment that sometimes comes with having to ask for clarification. But is it really the case that there is no such thing as a dumb question?
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+	It doesn’t take a rocket scientist to answer some of the rudimentary questions toddlers will oftentimes ask. “Why is the sky blue?” and “why do I have to eat my vegetables?” may be such examples. But, it does take a rocket scientist (or someone who is excellent with math and physics) to answer the question, “How much fuel will I need to launch this satellite that weighs X amount into orbit?”. We understand this intuitively with the context of who is asking the question, because it’ll dictate whether or not we’d expect them to already know the answer. From this we can conclude that a scientist asking a simple question may be considered dumb, but a toddler asking a complex question may be ingenious. 
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+So then, there is such a thing as a dumb question, right? In certain cases based on the context of who is asking and what we’d expect them to already know, sure. But perhaps this is the wrong thing to contemplate as it should matter more on how a question is asked, rather than what is being asked. 
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+Eric Raymond provides a guide on how the open source community (and people in general) can ask smart questions. In this guide, he gives tips on how to ask for help from strangers in a way that is clear, concise, and productive.
+Clear and concise (we know what they’re asking and it’s not broad)
+Productive (time doesn’t have to be wasted on clarifying details of the symptoms and what has already been tried to resolve the issue)
+There are many more sections that he covers that illustrate different attributes of what he considers a smart question, but for now these main points cover a vast majority of issues people may encounter when asking for help. 
 
-Here's what I think: the difficult things will always be difficult.
+	An example of some attributes that aren’t conducive to a smart question comes from StackOverflow, where a user that goes by the name of Brett asks a question about how to make a fullscreen window with Jetpack Compose. This is a toolkit for building Android user interfaces which I personally am not familiar with, but that is besides the point.  In the question, he provides a very brief overview of what he is trying to accomplish, what tools within Jetpack Compose he is trying to use to accomplish it, and what happens when the code snippet that he shared is executed. 
 
-## In the context of programming
+	Here is the [link](https://stackoverflow.com/questions/68232744/how-do-i-make-bottom-sheet-cover-whole-screen-in-jetpack-compose) to the original post
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+	While the problem itself may not be largely complicated enough to warrant an essay’s worth of details from the author for someone to figure out, there is very little explanation on what has already been tried as a solution to their problem. One of the first things that Raymond highlights in his guide for smart questions is that displaying your process of attempting a solution is very helpful for others to follow along in the problem-solving process. It also exemplifies that you are invested in trying to solve the problem yourself and are not just looking for cheat codes from somebody to solve the problem for you. 
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+This lack of investment may also come up in how simple the solution may have been to find, if the author dug a little deeper. One user that goes by the name of Javi mentioned looking through the StateSheet documentation (with a provided link) that explains the syntax required to solve this exact issue. Not glossing over something as simple as the documentation of the tools you are using to build your UI is a mistake that may paint you as uninvested and lazy. 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Although searching through chapters of documentation and pages of FAQs for a chance of your question being answered is not the most appealing way to spend an afternoon (especially if you’ve been stuck on an issue for longer than you’d hope you would be), it is a necessary step to being a part of a productive community of problem solvers. 
