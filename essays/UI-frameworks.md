@@ -39,11 +39,11 @@ labels:
 </div>
 ```
 <p>
-	In the above snipped of code, there are three columns organized within a row, which itself are nested within a basic container element. Without an intuitive understanding of how this will affect the page layout through extensive repitition, inspecting the page elements will become a useful tool in visualizing what normally stays invisible in a web application.
+	In the above snippet of code, there are three columns organized within a row, which itself is nested within a basic container element. Without an intuitive understanding of how this will affect the page layout through extensive repitition, inspecting the page elements will become a useful tool in visualizing what normally stays invisible in a web application.
 </p>
 
 <p>
-	But that is not all. Another confusing aspect of Bootstrap is the sheer number of attributes and classes that Bootstrap has to offer. There are so many ways to tweak, align, and modify components and it feels overwhelming at times. There are things to keep in mind as well when aligning components, such as how they shift and realign themselves as the size of the browser window changes. It feels like there are endless ways to achieve very similar results, and it often reminds me of the gruesome saying, "there is more than one way to skin a cat".
+	But that is not all. Another confusing aspect of Bootstrap is the sheer number of attributes and classes that Bootstrap has to offer. There are so many ways to tweak, align, and modify components and it feels overwhelming at times. In the snipped I shared earlier, each column has a sub-class denoted by the number after the hyphen which affects the size of each column relative to the full width of the page, which is just a small example of the degree of customization that can happen. There are things to keep in mind as well when aligning components, such as how they shift and realign themselves as the size of the browser window changes. It feels like there are endless ways to achieve very similar results, and it often reminds me of the gruesome saying, "there is more than one way to skin a cat".
 </p>
 
 ### Will you get a return on investment?
