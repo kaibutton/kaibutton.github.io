@@ -23,6 +23,21 @@ labels:
 <p>
 	That being said, one of the biggest challenges for me has been figuring out how to organize and assemble all of these components on the page. This is because a lot of things happen behind the scenes on a webpage and are not immediately visible without inspecting the page elements using developer tools. This challenge is especially noticeable when nesting components like divs inside containers; it is very tricky to visualize how all of the pieces fit together, and it is still something I am trying to wrap my head around. 
 </p>
+```
+<div class="container">
+  <div class="row">
+    <div class="col-3">
+      One of three columns
+    </div>
+    <div class="col-3">
+      Two of three columns
+    </div>
+    <div class="col-6">
+      Three of three columns
+    </div>
+  </div>
+</div>
+```
 <p>
 	But that is not all. Another confusing aspect of Bootstrap is the sheer number of attributes and classes that Bootstrap has to offer. There are so many ways to tweak, align, and modify components and it feels overwhelming at times. There are things to keep in mind as well when aligning components, such as how they shift and realign themselves as the size of the browser window changes. It feels like there are endless ways to achieve very similar results, and it often reminds me of the gruesome saying, "_there is more than one way to skin a cat_".
 </p>
