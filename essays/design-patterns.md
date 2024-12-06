@@ -10,7 +10,7 @@ labels:
   - Design Language
   - Design Patterns
 ---
-
+<img width="200px" class="rounded float-start pe-4" src="../img/fix-car.jpg">
 <p>
 You’ve probably heard of the saying, <i>“if it ain’t broke, don’t fix it”</i>, often being used to caution against tinkering with a system if it is still functioning reasonably well. This principle highlights the essence of having a <i>design pattern</i>, which are proven and reliable ways to accomplish something that have stood the test of time. If a business wants to set up a new website, you can almost guarantee that it will have a familiar layout consisting of a navigation menu and search bar up top, a footer with essential links on the bottom, and a main body showcasing detailed information and visuals about the business. However, design choices don’t always optimize for efficiency. 
 </p>
