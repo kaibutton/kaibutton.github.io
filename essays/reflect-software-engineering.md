@@ -10,7 +10,7 @@ labels:
   - Insights
   - Tips
 ---
-<img width="200px" class="rounded float-start pe-4" src="/img/software-engineer.jpg">
+<img width="300px" class="rounded float-start pe-4" src="/img/software-engineer.jpg">
 
 <h1>What Can I Learn from Software Engineering?</h1>
 <p>
